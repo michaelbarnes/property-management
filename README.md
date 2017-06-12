@@ -5,7 +5,7 @@
 Install [Meteor](https://www.meteor.com/install)
 
 Clone the repo
-`git clone Michael Barnes https://property-management.visualstudio.com/application/_git/meteor`
+`git clone Michael Barnes https://github.com/michaelbarnes/property-management.git`
 
 Run the Application
 `cd <path>`
