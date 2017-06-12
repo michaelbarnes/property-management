@@ -1,11 +1,118 @@
-/**/
-.card {
-  width: inherit;
-  height: inherit;
-  border: 1px solid black;
+* {
+  font-family: 'Lato', sans-serif;
 }
 
-.image {
+body {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+ul {
+  margin: 0;
+}
+
+.background {
+  width: 100%;
+  height: 100%;
+  background-color: #f9f9f9;
+}
+
+.topBar {
+  width: 100%;
+  height: 70px;
+  box-shadow: 1px 1px 13px 1px rgba(0, 0, 0, 0.47);
+  background-color: #ffffff;
+}
+
+.topBar h4 {
+  margin: 0;
+  padding: 15px 10px 10px 10px;
+}
+
+.profile {
+  width: 300px;;
+}
+
+.details {
+  padding: 15px 10px 10px 10px;
+  text-align: center;
+}
+
+.topBar li {
+  float: left;
+  list-style-type: none;
+  padding: 10px 10px 10px 10px;
+}
+
+.icon img {
+  width: 50px;
+  height: 50px;
+  padding: 11px 10px 10px 10px;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.leftBar {
+  float: left;
+  /* Style for "Rectangle" */
+  width: 250px;
+  height: 1200px;
+  box-shadow: 1px 2px 15px rgba(0, 0, 0, 0.63);
+  background-color: #424242;
+}
+
+.leftBar li {
+  list-style-type: none;
+  padding: 25px 0px 20px 71px;
+  color: #ffffff;
+  margin: 3px;
+}
+
+.leftBar li img {
+  float: left;
+  width: 36px;
+  height: 36px;
+}
+
+.companyProfile {
   width: inherit;
-  height: inherit;
+  height: 200px;
+  background-color: #666666;
+}
+
+.leftBar ul {
+  margin: 0;
+  padding: 0;
+}
+
+.companyProfile h4 {
+  margin: 0;
+  padding: 0px 15px 15px 64px;
+  color: #ffffff;
+}
+
+.companyProfile img {
+  margin: 0;
+  padding: 20px 15px 15px 60px;
+  width: 120px;
+  height: 120px;
+}
+
+.centerPane {
+  margin-left: 10%;
+  padding: 1em;
+  overflow: hidden;
+  height: 100%;
+}
+
+.card {
+  padding-left: 50px;
 }
