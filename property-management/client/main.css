@@ -1,0 +1,11 @@
+/**/
+.card {
+  width: inherit;
+  height: inherit;
+  border: 1px solid black;
+}
+
+.image {
+  width: inherit;
+  height: inherit;
+}
