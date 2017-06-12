@@ -11,4 +11,4 @@ Run the Application
 `cd <path>`
 `meteor`
 
-The application will start a development server 
+The application will start a development server `http://localhost:3000` by default
