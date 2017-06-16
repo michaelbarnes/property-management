@@ -18,6 +18,7 @@ const renderNav = () => NAV_ITEMS.map((nav) =>
    </li>
 )
 
+// Since you do not have state in this component, use this style (functional component)
 export default () => (
    <div className="background">
       <div className="topBar">
