@@ -3,7 +3,7 @@ import ReactDom from 'react-dom';
 
 import { Meteor } from 'meteor/meteor';
 //
-import { InspectionSheets } from '../../api/InspectionSheets.js';
+import { InspectionSheets } from '../../../imports/api/InspectionSheets';
 
 import ConditionScore from './ConditionScore.jsx';
 

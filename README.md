@@ -5,7 +5,7 @@
 Install [Meteor](https://www.meteor.com/install)
 
 Clone the repo
-`git clone Michael Barnes https://github.com/michaelbarnes/property-management.git`
+`git clone https://github.com/michaelbarnes/property-management.git <path>`
 
 Run the Application
 `cd <path>`
